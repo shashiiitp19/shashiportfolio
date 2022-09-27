@@ -1,0 +1,9 @@
+.experiment{
+    background-color: rgb(27, 21, 21);
+    padding: 16px;
+    margin: auto;
+    width: 800px;
+    max-width: 95% ;
+    border-radius: 12px;
+    box-shadow: 0 1px 8px black;
+}
